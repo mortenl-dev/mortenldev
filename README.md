@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web development, Web design, 2D Game development, Android App development**
 
-- 📫 How to reach me **mortenlins@gmail.com**
+- 📫 Contact me at **mortenlins@gmail.com**
 
-- ⚡ Fun fact **I love for loops**
+- ⚡ Fun fact: **I love for loops**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
