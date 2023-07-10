@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact: **I love for loops**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
