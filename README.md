@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morten Lins</h1>
 <h3 align="center">An up-and-coming developer who is eager to gain experience</h3>
 
-- 🌱 I’m currently learning **Web development, Web design, 2D Game development, Android App development**
+- 🌱 I’m currently learning **Web development, Web design, 2D && 3D Game development, Android App development**
 
 - 📫 Contact me at **mortenlins@gmail.com**
 
